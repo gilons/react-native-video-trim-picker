@@ -1,0 +1,34 @@
+{
+  "name": "react-native-video-trim-picker",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "^0.31.0",
+    "react-native-asset-thumbnail": "https://github.com/MYFC2015/react-native-asset-thumbnail/tarball/master",
+    "react-native-image-picker": "^0.21.5",
+    "react-native-multi-slider": "^0.3.5",
+    "react-native-video": "^0.8.0",
+    "react-timer-mixin": "^0.13.3"
+  },
+  "description": "A React Native module that allows you to use native UI to select video from the device library and trim it.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MYFC2015/react-native-video-trim-picker.git"
+  },
+  "keywords": [
+    "react-native",
+    "video",
+    "trim"
+  ],
+  "author": "MY F.C.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MYFC2015/react-native-video-trim-picker/issues"
+  },
+  "homepage": "https://github.com/MYFC2015/react-native-video-trim-picker#readme"
+}
